@@ -1,0 +1,7 @@
+$backgroundColor: white;
+section {
+  background: $backgroundColor;
+  margin: 50px;
+  border: 1px solid black;
+  overflow: scroll;
+}
