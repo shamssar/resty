@@ -4,10 +4,12 @@ export default function Form(props) {
   const [url, setUrl] = useState();
   const [method, setMethod] = useState('GET');
   const [body, setBody] = useState();
+
+  
   const handleMethod = (event) => {
-    let elems = document.querySelectorAll('span');
-    elems.forEach(elem => elem.style.backgroundColor = "rgb(175, 176, 182)");
-    document.getElementById(`${event.target.id}`).style.backgroundColor = "pink";
+    // let elems = document.querySelectorAll('span');
+    // elems.forEach(elem => elem.style.backgroundColor = "rgb(175, 176, 182)");
+    // document.getElementById(`${event.target.id}`).style.backgroundColor = "pink";
     setMethod(event.target.id);
   }
   const handleBody = (event) => {
