@@ -2,11 +2,11 @@
 
 
 ## UML 
-![](./UML.png)
+![](./image/UML.png)
 
 
 ## Test
-![](./resty.png)
+![](./image/test.png)
 
 ## Deploy Link 
 
