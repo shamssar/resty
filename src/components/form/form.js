@@ -7,9 +7,7 @@ export default function Form(props) {
 
   
   const handleMethod = (event) => {
-    // let elems = document.querySelectorAll('span');
-    // elems.forEach(elem => elem.style.backgroundColor = "rgb(175, 176, 182)");
-    // document.getElementById(`${event.target.id}`).style.backgroundColor = "pink";
+  
     setMethod(event.target.id);
   }
   const handleBody = (event) => {
