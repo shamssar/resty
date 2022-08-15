@@ -14,9 +14,9 @@
 [pull Requests](https://github.com/shamssar/resty/pull/4)
 
 
-[Action](https://github.com/shamssar/resty/actions)
 
 
-[gh-pages](https://shamssar.github.io/resty/) 
 
-[resty](https://voluble-blini-ccf9a6.netlify.app/)
+
+
+[resty](https://tubular-cendol-61807d.netlify.app/)
