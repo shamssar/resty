@@ -33,7 +33,7 @@ function Form(props) {
   const handleSetRequest = e => {
     let { value } = e.target;
     setRequestData(value);
-    // console.log(value);
+  
   };
 
   return (

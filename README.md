@@ -11,7 +11,7 @@
 
 
 ## LINKS: 
-[pull Requests](https://github.com/shamssar/resty/pull/4)
+[pull Requests](https://github.com/shamssar/resty/pull/12)
 
 
 
@@ -19,4 +19,4 @@
 
 
 
-[resty](https://tubular-cendol-61807d.netlify.app/)
+[resty](https://moonlit-gumption-b377f3.netlify.app/)
